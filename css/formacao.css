@@ -50,7 +50,7 @@
 }
 
 .faculdade {
-    flax: 1;
+    flex: 1;
     background: #000000;
     padding: 20px;
     border-radius: 4px;
